@@ -1,9 +1,6 @@
-
 # Welcome to Linux Practice 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/magicansk/InfoSec_Practice/blob/master/CONTRIBUTORS_guide.md)  
 This is a Linux Practice Project that I learn. 
-
-A Practice for Linux distribution Redhat and CentOS  
 
 ## Table of Contents 
 - [Linux Usual Command](#linux-usual-command) 
