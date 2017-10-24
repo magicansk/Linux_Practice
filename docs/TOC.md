@@ -1,5 +1,5 @@
 # Welcome to Linux Practice 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/magicansk/InfoSec_Practice/blob/master/CONTRIBUTORS_guide.md) [![Join the chat at https://t.co/5lbgfG6jkG](https://badges.gitter.im/trailofbits/algo.svg)](https://t.co/5lbgfG6jkG) [![Dependency Status](https://gemnasium.com/badges/github.com/magicansk/LEARN_Git.svg)](https://gemnasium.com/github.com/magicansk/LEARN_Git)  
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/magicansk/InfoSec_Practice/blob/master/CONTRIBUTORS_guide.md) [![Join the chat at https://t.co/5lbgfG6jkG](https://badges.gitter.im/trailofbits/algo.svg)](https://t.co/5lbgfG6jkG) [![Dependency Status](https://gemnasium.com/badges/github.com/magicansk/Linux_Practice.svg)](https://gemnasium.com/github.com/magicansk/Linux_Practice)  
 This is a Linux Practice Project that I learn. 
 
 ## Table of Contents 
