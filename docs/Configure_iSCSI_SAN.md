@@ -21,8 +21,8 @@ Two servers:
 One is configured as the iSCSI SAN.
 One is cofigured as the node that is accessing the storage devices shared by the SAN.
  
-  * iSCSI target(server 1):  Need 100MB setup an LVM volume and a file.  
-  * iSCSI initiator(server 2): no specific requirements.  
+  - iSCSI target(server 1):  Need 100MB setup an LVM volume and a file.  
+  - iSCSI initiator(server 2): no specific requirements.  
 
 
 ###  Understanding iSCSI  
@@ -30,9 +30,10 @@ One is cofigured as the node that is accessing the storage devices shared by the
 
 #### Comparing SAN solutions
 
-> Make sure that shared disks are made available to the servers that are connecing to the SAN.  
-    * Fibre Channel - using with a hardware dedicated high speed network topology to access SAN storage.  
-    * iSCSI   
+> Make sure that shared disks are made available to the servers that are connecing to the SAN.   
+
+   * Fibre Channel - using with a hardware dedicated high speed network topology to access SAN storage.  
+   * iSCSI   
 
 #### Software versus Hardware iSCSI SAN   
 
