@@ -30,7 +30,8 @@ One is cofigured as the node that is accessing the storage devices shared by the
 
 #### Comparing SAN solutions
 
-> Make sure that shared disks are made available to the servers that are connecing to the SAN.  
+> Make sure that shared disks are made available to the servers that are connecing to the SAN.   
+
     * Fibre Channel - using with a hardware dedicated high speed network topology to access SAN storage.  
     * iSCSI   
 
